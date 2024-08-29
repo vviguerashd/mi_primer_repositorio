@@ -1,6 +1,8 @@
 # Ejemplo de mi primer repo
 
 Descripción breve sobre lo que hace el proyecto y su propósito.
+![Static Badge](https://img.shields.io/badge/HTML-orange)
+
 
 ## Instalación
 
